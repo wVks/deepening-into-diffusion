@@ -1,0 +1,7 @@
+method,steps,num_images,run_id,seconds
+ddpm,1000,4,1,314.274632
+ddpm,1000,4,2,320.107355
+ddim,100,4,1,32.970158
+ddim,100,4,2,31.885945
+ddpm_mean,1000,4,-,317.190994
+ddim_mean,100,4,-,32.428052
